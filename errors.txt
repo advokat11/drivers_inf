@@ -1,0 +1,1 @@
+.\target\debug\driver.inf: Output { status: ExitStatus(ExitStatus(3758096387)), stdout: "Microsoft PnP Utility\r\n\r\nAdding driver package:  driver.inf\r\nFailed to add driver package: The syntax of the INF is invalid.\r\n\r\nTotal driver packages:  1\r\nAdded driver packages:  0\r\n", stderr: "" }
